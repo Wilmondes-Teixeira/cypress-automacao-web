@@ -75,4 +75,7 @@ describe('Cadastro de Usuário', () => {
         cy.get('#btnRegister').click();
         cy.get('#errorMessageFirstName').should('be.visible').should('contain', 'O campo senha deve ter pelo menos 6 dígitos');
     });
+
+    //como fazer validação manualmente? Escreva o que vai fazer
+    //O que automatizar? Aquilo que não pode parar de funcionar de jeito nenhum
 });

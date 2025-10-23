@@ -1,5 +1,0 @@
-- [ ] Estrutura de pastas mínima criada (cypress/e2e, cypress/support, .github)
-- [ ] package.json criado com Cypress como devDependency
-- [ ] Teste de exemplo comandos-basicos.cy.js criado
-- [ ] README.md criado
-- [ ] Pronto para instalar dependências e rodar testes
